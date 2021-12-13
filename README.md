@@ -6,6 +6,6 @@
 	<br>
 </div>
 
-### to watch the video: https://www.youtube.com/watch?v=IsOZ7LNKr0o
+### to watch the video: https://www.youtube.com/watch?v=S5eQ_sMxluU
 
 ![jobfinderUI](https://user-images.githubusercontent.com/74051388/145726804-3745dc5f-f41b-4a52-bd4d-355d35a2b55a.png)
